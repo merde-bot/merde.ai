@@ -1,0 +1,2 @@
+# merde.ai
+static website
